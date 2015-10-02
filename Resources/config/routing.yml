@@ -1,0 +1,4 @@
+_kamran_passbook_url:
+    resource: "@KamranPassbookBundle/Controller"
+    type:     annotation
+

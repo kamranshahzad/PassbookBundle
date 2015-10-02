@@ -1,0 +1,3 @@
+_kamran_rest_api:
+    resource: Kamran\PassbookBundle\Controller\ApiController
+    type: rest

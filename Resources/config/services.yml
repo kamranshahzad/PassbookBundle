@@ -1,0 +1,9 @@
+parameters:
+  Kamran.passbook.passhelper.class: Kamran\PassbookBundle\Base\PassHelper
+
+services:
+
+  passbook.passhelper:
+    class: %kamran.passbook.passhelper.class%
+    arguments:
+          - "@service_container"
