@@ -1,0 +1,22 @@
+{
+    "name": "kamran/passbook-bundle",
+    "type": "symfony-bundle",
+    "description": "A REST API for building and manages passes & coupons",
+    "keywords": [ "passes", "coupons", "bundle" ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kamran Shahzad",
+            "email": "bleak.unseen@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "sensio/framework-extra-bundle": "~3.0,>=3.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "PassbookBundle\\": ""
+        }
+    }
+}
