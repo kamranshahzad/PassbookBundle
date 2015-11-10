@@ -13,6 +13,14 @@ All backend working done by PassbookBundle.
 
 [Passbook UI Plugin](https://github.com/kamranshahzad/passbook-ui).
 
+### Features.
+
+* Package format for creating passes
+* Web Service API for updating passes, implemented on your server
+* Pass styles, providing images, setting colors & text formating, text barcode
+* Passes are distributed via email, the web or using your app.
+
+
 ## Installation.
 
 Using composer
